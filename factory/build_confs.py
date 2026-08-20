@@ -53,11 +53,11 @@ values = {}
 values['build_time'] = time.strftime("%Y-%m-%d %H:%M:%S")
 
 values['top500_proxy']  = getRulesStringFromFile('resultant/top500_proxy.list', 'Proxy')
-values['top500_direct'] = getRulesStringFromFile('resultant/top500_direct.list', 'Direct')
+# values['top500_direct'] = getRulesStringFromFile('resultant/top500_direct.list', 'Direct')
 
 values['ad'] = getRulesStringFromFile('resultant/ad.list', 'Reject')
 
-values['manual_direct'] = getRulesStringFromFile('manual/manual_direct.txt', 'Direct')
+# values['manual_direct'] = getRulesStringFromFile('manual/manual_direct.txt', 'Direct')
 values['manual_proxy']  = getRulesStringFromFile('manual/manual_proxy.txt', 'Proxy')
 values['manual_reject'] = getRulesStringFromFile('manual/manual_reject.txt', 'Reject')
 
