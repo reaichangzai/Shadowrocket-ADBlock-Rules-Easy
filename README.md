@@ -49,16 +49,16 @@ Repository Page Views Counter
         <th>规则简称</th><th>广告</th><th>规则文件名</th><th>代理的网站</th><th>直连的网站</th>
     </tr>
     <tr>
-        <td rowspan="2">黑名单</td><td>-</td><td><a href="https://nthack.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist.conf" target="_blank">sr_banlist.conf</a></td><td rowspan="2">被墙的网站（GFWList）</td><td rowspan="2">1. 已知直连列表<br>2. 正常的网站</td>
+        <td rowspan="2">黑名单</td><td>-</td><td><a href="https://reaichangzai.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist.conf" target="_blank">sr_banlist.conf</a></td><td rowspan="2">被墙的网站（GFWList）</td><td rowspan="2">1. 已知直连列表<br>2. 正常的网站</td>
     </tr>
     <tr>
-        <td>去</td><td><a href="https://nthack.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_ad.conf" target="_blank">sr_banlist_ad.conf</a></td>
+        <td>去</td><td><a href="https://reaichangzai.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_ad.conf" target="_blank">sr_banlist_ad.conf</a></td>
     </tr>
     <tr>
-        <td rowspan="2">黑名单+自定义列表</td><td>-</td><td><a href="https://nthack.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_manual.conf" target="_blank" >sr_banlist_manual.conf</a></td><td rowspan="2">1. 被墙的网站（GFWList）<br>2. 自定义走代理的列表</td><td rowspan="2">1. 已知直连列表<br>2. 正常的网站<br>3. 自定义直连列表</td>
+        <td rowspan="2">黑名单+自定义列表</td><td>-</td><td><a href="https://reaichangzai.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_manual.conf" target="_blank" >sr_banlist_manual.conf</a></td><td rowspan="2">1. 被墙的网站（GFWList）<br>2. 自定义走代理的列表</td><td rowspan="2">1. 已知直连列表<br>2. 正常的网站<br>3. 自定义直连列表</td>
     </tr>
     <tr>
-        <td>去</td><td><a href="https://nthack.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_ad_manual.conf" target="_blank">sr_banlist_ad_manual.conf</a></td>
+        <td>去</td><td><a href="https://reaichangzai.github.io/Shadowrocket-ADBlock-Rules-Easy/sr_banlist_ad_manual.conf" target="_blank">sr_banlist_ad_manual.conf</a></td>
     </tr>
 </table>
 
