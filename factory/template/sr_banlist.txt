@@ -7,6 +7,5 @@
 
 
 {{gfwlist}}
-{{top500_direct}}
 
 FINAL,direct
